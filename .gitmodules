@@ -1,0 +1,3 @@
+[submodule "sasRec/SASRec.pytorch"]
+	path = sasRec/SASRec.pytorch
+	url = https://github.com/pmixer/SASRec.pytorch.git
